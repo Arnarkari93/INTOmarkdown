@@ -1,6 +1,8 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+- [ ] Arnar Kári Ágústsson
+- [ ] Sverrir Páll Sverrirson
 
 ## 1. Linux uppsetning
 
